@@ -1,0 +1,61 @@
+.recipe {
+    font-weight: 1000;
+    font-size: 20px;
+    color: navy;
+    background-color: lightgreen;
+}
+
+#bolognese-title {
+    color: red;
+    background-color: yellow;
+}
+
+#burger-title {
+    color: red;
+    background-color: green;
+}
+
+#carbonara-title {
+    color: green;
+    background-color: yellow;
+}
+
+.burger {
+    color: red;
+    background-color: white;
+}
+
+.bolognese {
+    color: red;
+    background-color: black;
+}
+
+.carbonara {
+    color: white;
+    background-color: black;
+}
+
+.food {
+    font-size: 60px;
+}
+
+.description{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ingredients {
+    font-style:italic;
+    font-size: 20px;
+}
+
+.steps {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.back {
+    font-size: 25px;
+    color: white;
+    background-color: black;
+}
