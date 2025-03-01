@@ -1,3 +1,16 @@
+li, p {
+    margin: 5px 40px;
+}
+
+h1 {
+    margin: 40px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 .recipe {
     font-weight: 1000;
     font-size: 20px;
@@ -37,25 +50,34 @@
 
 .food {
     font-size: 60px;
+    text-align: center;
 }
 
 .description{
     font-weight: bold;
     font-size: 20px;
+    padding: 5px;
 }
 
 .ingredients {
     font-style:italic;
     font-size: 20px;
+    padding: 5px;
 }
 
 .steps {
     text-decoration: underline;
     font-size: 20px;
+    padding: 5px;
 }
 
 .back {
     font-size: 25px;
     color: white;
     background-color: black;
+    padding: 5px;
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
 }
